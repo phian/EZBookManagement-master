@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookstoreManagementApp(Final)",
+    "\\BookstoreManagementApp_BUS",
+    "\\BookstoreManagementApp_DAL",
+    "\\BookstoreManagementApp_DTO",
+    "\\EZBookManagement",
+    "\\EZBookManagement\\BookstoreManagementApp_BUS"
+  ],
+  "SelectedNode": "\\BookstoreManagementApp(Final)\\UC_BookRepoManage.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,130 @@
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net.xml
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CopyComplete
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net.dll
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net.xml
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csprojAssemblyReference.cache
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CopyComplete
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net.dll
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net.xml
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CopyComplete
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net.dll
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net.xml
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csprojAssemblyReference.cache
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CopyComplete
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net.xml
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CopyComplete
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net.dll
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net.xml
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csprojAssemblyReference.cache
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CopyComplete
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CopyComplete
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CopyComplete
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csprojAssemblyReference.cache
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CopyComplete
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp_BUS\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp_BUS\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.csproj.CopyComplete
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp_BUS\obj\Debug\BookstoreManagementApp_BUS.pdb

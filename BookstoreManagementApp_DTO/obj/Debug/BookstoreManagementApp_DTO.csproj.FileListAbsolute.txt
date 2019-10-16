@@ -1,0 +1,68 @@
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_DTO\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_DTO\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_DTO\bin\Debug\BCrypt.Net.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_DTO\bin\Debug\BCrypt.Net.xml
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csproj.CopyComplete
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_DTO\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_DTO\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_DTO\bin\Debug\BCrypt.Net.dll
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_DTO\bin\Debug\BCrypt.Net.xml
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csprojAssemblyReference.cache
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csproj.CopyComplete
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_DTO\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_DTO\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_DTO\bin\Debug\BCrypt.Net.dll
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_DTO\bin\Debug\BCrypt.Net.xml
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csproj.CopyComplete
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_DTO\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_DTO\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_DTO\bin\Debug\BCrypt.Net.dll
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_DTO\bin\Debug\BCrypt.Net.xml
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csproj.CopyComplete
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_DTO\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_DTO\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_DTO\bin\Debug\BCrypt.Net.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_DTO\bin\Debug\BCrypt.Net.xml
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csproj.CopyComplete
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_DTO\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_DTO\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_DTO\bin\Debug\BCrypt.Net.dll
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_DTO\bin\Debug\BCrypt.Net.xml
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csproj.CopyComplete
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_DTO\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_DTO\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_DTO\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_DTO\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csproj.CopyComplete
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_DTO\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_DTO\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_DTO\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_DTO\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csprojAssemblyReference.cache
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.csproj.CopyComplete
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp_DTO\obj\Debug\BookstoreManagementApp_DTO.pdb

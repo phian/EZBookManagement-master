@@ -1,0 +1,520 @@
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.LoginAccountForm.resources
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeManageForm.resources
+D:\source\Nhập môn CNPM\BookstoreManagementApp(Final)\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeSaleForm.resources
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeManageForm.resources
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeSaleForm.resources
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.LoginAccountForm.resources
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu Le\Desktop\hbcbabdc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeManageForm.resources
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeSaleForm.resources
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.LoginAccountForm.resources
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu Le\Desktop\jkhashjAS\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeManageForm.resources
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeSaleForm.resources
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.LoginAccountForm.resources
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.TestF.resources
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net.dll
+C:\Users\Hieu\Desktop\EZBook\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net.xml
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net.dll
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net.xml
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeManageForm.resources
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeSaleForm.resources
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.LoginAccountForm.resources
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.TestF.resources
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\EZBookManagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net.dll
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net.xml
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeManageForm.resources
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeSaleForm.resources
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.TestF.resources
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu Le\Desktop\temp ezbookmanagement\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.data.resources
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net.dll
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net.xml
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeManageForm.resources
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeSaleForm.resources
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.data.resources
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_CSVC.resources
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Salary.resources
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Staff.resources
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\TEMP EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net.dll
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net.xml
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeManageForm.resources
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeSaleForm.resources
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.data.resources
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_CSVC.resources
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Salary.resources
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Staff.resources
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu Le\Desktop\abc\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.data.resources
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_CSVC.resources
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Salary.resources
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Staff.resources
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\PdfSharp.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.data.resources
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_CSVC.resources
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Salary.resources
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Staff.resources
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net.dll
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net.xml
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.data.resources
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_CSVC.resources
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Salary.resources
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Staff.resources
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryOffice.resources
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryStorage.resources
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_SaleForm.resources
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookManage.resources
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookRepoManage.resources
+C:\Users\Hoang Vinh\Source\Repos\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_RevenueReport.resources
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\bin\Debug\PdfSharp.dll
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.data.resources
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryOffice.resources
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryStorage.resources
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookManage.resources
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookRepoManage.resources
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_CSVC.resources
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_RevenueReport.resources
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Salary.resources
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Staff.resources
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_SaleForm.resources
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\FINAL APP\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccountManager.resources
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.data.resources
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryOffice.resources
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryStorage.resources
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccountManager.resources
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookManage.resources
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookRepoManage.resources
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_CSVC.resources
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_RevenueReport.resources
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Salary.resources
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Staff.resources
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_SaleForm.resources
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu Le\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\PdfSharp.dll
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.data.resources
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryOffice.resources
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryStorage.resources
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccountManager.resources
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookManage.resources
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookRepoManage.resources
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_CSVC.resources
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_RevenueReport.resources
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Salary.resources
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Staff.resources
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_SaleForm.resources
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\Vẽ UI ở đây\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.data.resources
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryOffice.resources
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryStorage.resources
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccountManager.resources
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookManage.resources
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookRepoManage.resources
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_CSVC.resources
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_RevenueReport.resources
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Salary.resources
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Staff.resources
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_SaleForm.resources
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu Le\Desktop\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.data.resources
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryOffice.resources
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryStorage.resources
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccountManager.resources
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookManage.resources
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookRepoManage.resources
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_CSVC.resources
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_RevenueReport.resources
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Salary.resources
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Staff.resources
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_SaleForm.resources
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\UI ở đây này111\UI ở đây này\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.data.resources
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryOffice.resources
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryStorage.resources
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccountManager.resources
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookManage.resources
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookRepoManage.resources
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_CSVC.resources
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_RevenueReport.resources
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Salary.resources
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Staff.resources
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_SaleForm.resources
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu Le\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe.config
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.dll
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.dll
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.dll
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\PdfSharp.dll
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_BUS.pdb
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DAL.pdb
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BookstoreManagementApp_DTO.pdb
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csprojAssemblyReference.cache
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.EmployeeForm.resources
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.data.resources
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.ManagerForm.resources
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.Properties.Resources.resources
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryOffice.resources
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryStorage.resources
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccountManager.resources
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookManage.resources
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookRepoManage.resources
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_CSVC.resources
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_RevenueReport.resources
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Salary.resources
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_Staff.resources
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_SaleForm.resources
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.GenerateResource.cache
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_GUI.csproj.CopyComplete
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).exe
+C:\Users\Hieu\Desktop\DoneUI\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp(Final).pdb
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryOffice.resources
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryStorage.resources
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccountManager.resources
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookManage.resources
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookRepoManage.resources
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_RevenueReport.resources
+C:\Users\Hieu\Desktop\ORIGIN\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_SaleForm.resources
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\PdfSharp.dll
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryOffice.resources
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccessoryStorage.resources
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_AccountManager.resources
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookManage.resources
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_BookRepoManage.resources
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_RevenueReport.resources
+C:\Users\Hieu\Desktop\EZBookManagement\BookstoreManagementApp(Final)\obj\Debug\BookstoreManagementApp_Final_.UC_SaleForm.resources
